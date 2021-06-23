@@ -1,4 +1,5 @@
-CellMon lets you monitor your Sailfish phone cellular radio.
+CellMon lets you monitor your Sailfish phones cellular radio. Install using Storeman in [Openrepos](https://openrepos.net/content/crun/cellmon)
+
 It was started to give me a decent signal strength meter to help in finding the best signal location. 
 It is also to try and help understand the loss of connection bug I experience.
 
