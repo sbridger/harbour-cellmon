@@ -10,6 +10,7 @@ assignees: ''
 **Versions**
 Cellmon (in _About_ page) :
 Sailfish (_settings->Sailfish OS updates_) :
+Phone Model :
 
 **Describe the bug**
 A clear and concise description of what the bug is.
