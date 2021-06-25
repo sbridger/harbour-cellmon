@@ -15,4 +15,4 @@ Below the bars are a spinner and history so you can see when updates are happeni
 
 It reads the information via dbus, and is now fairly easy to add more dbus sources
 
-Limitation V0.2-1 support sim1/2, no detect if present
+Limitation V0.2-1 support sim1/2, no detect if present.  3G frequencies probably wrong ARFCN!=EARFCN
