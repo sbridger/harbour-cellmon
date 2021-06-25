@@ -4,7 +4,7 @@ It was started to give me a decent signal strength meter to help in finding the 
 It is also to try and help understand the loss of connection bug I experience.
 
 - Signal strength
-- 2G/3G-umts/4G-lte , band and actual frequencies
+- 2G/3G-umts/4G-lte , band and actual frequencies (4G/lte)
 - connection status
 
 Data is read from two different apis: NetworkRegistration and NetworkMonitor
